@@ -19,5 +19,5 @@ LogifyLabs는 '철학적 논증으로 현실의 문제를 코드로 변환하는
 <br>
 
 ## 📬 Contact
-
+문의 사항은 아래 이메일로 연락 바랍니다.
 [hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

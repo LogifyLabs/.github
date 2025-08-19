@@ -18,10 +18,9 @@ LogifyLabs는 '철학적 논증으로 현실의 문제를 코드로 변환하는
 
 <br>
 
-## 🚀 How to Participate?
+## 🚀 Learn More & Get Involved
 
-1.  **Read our Methodology:** 가장 먼저 우리의 철학이 담긴 [the-logify-methodology](https://github.com/LogifyLabs/the-logify-methodology) 저장소를 읽어보세요. 우리가 어떻게 '추측'을 '확신'으로 바꾸는지 확인할 수 있습니다.
-2.  **Join the Discussion:** `Issues` 탭에서 진행되는 토론에 참여해주세요. 여러분의 경험과 아이디어가 Logify를 더 강하게 만듭니다.
+Logify 방법론을 당신의 팀에 적용하여, 재작업 없는 개발 프로세스를 경험하고 싶으신가요? [hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com) 링크를 통해 편하게 연락 주세요.
 
 <br>
 

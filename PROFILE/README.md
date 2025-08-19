@@ -20,7 +20,7 @@ LogifyLabs는 '철학적 논증으로 현실의 문제를 코드로 변환하는
 
 ## 🚀 How to Participate?
 
-1.  **Read our Methodology:** 가장 먼저 우리의 철학이 담긴 `the-logify-methodology` 저장소를 읽어보세요. 우리가 어떻게 '추측'을 '확신'으로 바꾸는지 확인할 수 있습니다.
+1.  **Read our Methodology:** 가장 먼저 우리의 철학이 담긴 [the-logify-methodology](https://github.com/LogifyLabs/the-logify-methodology) 저장소를 읽어보세요. 우리가 어떻게 '추측'을 '확신'으로 바꾸는지 확인할 수 있습니다.
 2.  **Join the Discussion:** `Issues` 탭에서 진행되는 토론에 참여해주세요. 여러분의 경험과 아이디어가 Logify를 더 강하게 만듭니다.
 
 <br>

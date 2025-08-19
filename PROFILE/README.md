@@ -18,15 +18,6 @@ LogifyLabs는 '철학적 논증으로 현실의 문제를 코드로 변환하는
 
 <br>
 
-## 🚀 Learn More & Get Involved
+## 📬 Contact
 
-Logify 방법론을 당신의 팀에 적용하여, 재작업 없는 개발 프로세스를 경험하고 싶으신가요? **[편하게 연락 주세요](mailto:hyeyum@humanartmuseum.com)**
-
-<br>
-
-## 📬 Contact Us
-
-Logify 방법론을 당신의 팀에 적용하여, 재작업 없는 개발 프로세스를 경험하고 싶으신가요?
-아래 이메일로 편하게 연락 주세요.
-
-**hyeyum@humanartmuseum.com** 
+[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)

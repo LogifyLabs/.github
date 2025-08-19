@@ -20,7 +20,7 @@ This space is for all product teams (planners, developers, designers) who want t
 
 ## 🚀 Learn More & Get Involved
 
-Would you like to apply the Logify methodology to your team and experience a development process without rework? Feel free to contact us via the following link: [Contact Us](mailto:hello@logifylabs.com)
+Would you like to apply the Logify methodology to your team and experience a development process without rework? Feel free to contact us via the following link: [Contact Us](mailto:hyeyum@humanartmuseum.com)
 
 <br>
 

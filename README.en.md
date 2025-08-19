@@ -20,7 +20,7 @@ This space is for all product teams (planners, developers, designers) who want t
 
 ## 🚀 How to Participate?
 
-1.  **Read our Methodology:** First, read our [the-logify-methodology](link-to-repo) repository, which contains our philosophy. You can see how we turn 'guesswork' into 'certainty'.
+1.  **Read our Methodology:** First, read our [the-logify-methodology](https://github.com/LogifyLabs/the-logify-methodology/tree/main/en) repository, which contains our philosophy. You can see how we turn 'guesswork' into 'certainty'.
 2.  **Join the Discussion:** Please participate in the discussions happening in the `Issues` tab. Your experiences, pains, and ideas make Logify stronger.
 
 <br>

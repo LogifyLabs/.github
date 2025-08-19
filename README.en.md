@@ -24,9 +24,7 @@ Would you like to apply the Logify methodology to your team and experience a dev
 
 <br>
 
-## 📬 Contact Us
+## 📬 Contact
 
-Would you like to apply the Logify methodology to your team and experience a development process without rework?
-Feel free to contact us at the email below.
-
-**hyeyum@humanartmuseum.com**
+For any questions, please contact us at the email below.
+[hyeyum@humanartmuseum.com](mailto:hyeyum@humanartmuseum.com)
